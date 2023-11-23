@@ -11,7 +11,6 @@ def get_rotten_tomatoes_html(movie_url):
         response = requests.get(movie_url)
 
         if response.status_code == 200:
-            # html_raw = remove_blank_lines(response.text)
             html_raw = response.text
             return html_raw
         else:
