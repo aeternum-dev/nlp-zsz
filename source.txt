@@ -26,3 +26,13 @@ jurassic_park
 lost_world_jurassic_park
 jurassic_park_iii
 clone_wars
+the_dark_knight
+pulp_fiction
+shawshank_redemption
+godfather
+schindlers_list
+silence_of_the_lambs
+departed
+gladiator
+usual_suspects
+avengers
